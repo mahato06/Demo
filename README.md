@@ -1,1 +1,1 @@
-# trainingSectionB
+# training-SectionB
